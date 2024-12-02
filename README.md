@@ -4,7 +4,7 @@
 ---
 
 ## 📸 **Vista Previa**  
-![Las estrellas de nuestro espacio](Screencast from 12-01-2024 08_02_03 PM.gif)
+![Las estrellas de nuestro espacio](/presentation.gif)
 
 ---
 
